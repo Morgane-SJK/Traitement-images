@@ -40,8 +40,8 @@ Les différentes fonctions disponibles permettent de :
 -	coder et décoder une image dans une image
 
 <p align="center">
-  <img src="./Images/ImprovedLogo.bmp" height="30">
-  <img src="./Images/lac_en_montagne.bmp" height="160">
+  <img src="./Images/ImprovedLogo.bmp" height="30"> <b>+</b>
+  <img src="./Images/lac_en_montagne.bmp" height="160"> <b>=</b>
   <img src="./Images/lac+logo.bmp" height="160">
 </p>
 
