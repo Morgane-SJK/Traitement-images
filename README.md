@@ -25,10 +25,10 @@ Les différentes fonctions disponibles permettent de :
 -	appliquer un filtre (à l’aide d’une matrice de convolution) : détection de contour, renforcement des bords, flou, repoussage
 
 <p align="center">
-  <img src="./Images/lac_en_montagne_Contours.bmp" height="160">
-  <img src="./Images/lac_en_montagne_Renforcement_Bords.bmp" height="160">
-  <img src="./Images/lac_en_montagne_Flou.bmp" height="160">
-  <img src="./Images/lac_en_montagne_Repoussage.bmp" height="160">
+  <img src="./Images/lac_en_montagne_Contours.bmp" height="150">
+  <img src="./Images/lac_en_montagne_Renforcement_Bords.bmp" height="150">
+  <img src="./Images/lac_en_montagne_Flou.bmp" height="150">
+  <img src="./Images/lac_en_montagne_Repoussage.bmp" height="150">
 </p>
 
 -	créer une nouvelle image : fractale, histogramme se rapportant à l’image
