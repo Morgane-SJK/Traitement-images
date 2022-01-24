@@ -8,6 +8,8 @@
 
 **Langage utilisé :** C#
 
+## Présentation du projet
+
 Il s’agit d’un projet informatique réalisé en C# sur le sujet du traitement d’images, au format Bitmap 24 bits.
 J’ai créé un outil permettant de lire une image, de la traiter et de la sauvegarder dans un fichier de sortie différent de celui donné en entrée.
 
@@ -51,3 +53,32 @@ Les différentes fonctions disponibles permettent de :
   <img src="./Images/coco.bmp" height="150">
   <img src="./Images/coco_couleurs_inverses.bmp" height="150">
 </p>
+
+
+## Structure des fichiers
+
+Le projet comporte 3 classes : MyImage, Pixel et Program.
+
+Les images à utiliser pour le projet doivent être placées dans le dossier ./bin/Debug.
+
+Si le projet Visual Studio se nomme Traitement_images, il suit donc cette structure :
+
+```dir
+│___Traitement_images
+│       bin
+│          Debug
+│             coco.bmp
+│             ImprovedLogo.bmp
+│             lac_en_montagne.bmp
+│             ...
+│          Release
+│       obj
+│       Properties
+│       App.config
+│       MyImage.cs
+│       Pixel.cs
+│       Program.cs
+│       Traitement_images.csproj
+│
+└───Traitement_images.sln
+```
