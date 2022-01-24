@@ -71,7 +71,6 @@ Si le projet Visual Studio se nomme Traitement_images, il suit donc cette struct
 │             ImprovedLogo.bmp
 │             lac_en_montagne.bmp
 │             ...
-│          Release
 │       obj
 │       Properties
 │       App.config
